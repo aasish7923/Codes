@@ -4,4 +4,5 @@ function agechk(x){
 }
 console.log( agechk(23) );
 
+console.log( agechk(19));
 //early retrn type
